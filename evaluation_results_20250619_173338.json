@@ -1,0 +1,17 @@
+{
+  "model_name": "ft:gpt-3.5-turbo-0125:mats-safety-research-1::BkIgGiBn",
+  "total_samples": 100,
+  "correct_predictions": 100,
+  "accuracy": 1.0,
+  "error_rate": 0.0,
+  "true_positives": 0,
+  "true_negatives": 100,
+  "false_positives": 0,
+  "false_negatives": 0,
+  "precision_positive": 0,
+  "recall_positive": 0,
+  "f1_positive": 0,
+  "precision_negative": 1.0,
+  "recall_negative": 1.0,
+  "f1_negative": 1.0
+}
